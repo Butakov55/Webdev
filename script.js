@@ -13,3 +13,6 @@ function myClick() {
     console.log(a);
     document.querySelector('.out').innerHTML = a;
 }
+
+// value - получить текст из Input
+// innerHTML - получить или записать текста в парный тэг
